@@ -1,0 +1,6 @@
+dataformCoreVersion: 3.0.0-beta.2
+defaultDataset: dataform
+defaultLocation: us
+defaultNotebookRuntimeOptions:
+  outputBucket: gs://eligant-test-bucket
+
